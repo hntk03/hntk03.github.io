@@ -3,6 +3,7 @@ languageCode: en-us
 title: hntk03's Portfolio
 theme: "PaperMod"
 publishDir: "docs"
+canonifyurls: true
 
 params:
     defaultTheme: light
