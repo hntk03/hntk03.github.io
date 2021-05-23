@@ -1,0 +1,18 @@
+baseURL: http://hntk03.github.io
+languageCode: en-us
+title: hntk03's Portfolio
+theme: "PaperMod"
+publishDir: "docs"
+
+params:
+    defaultTheme: light
+    # defaultTheme: dark
+    #defaultTheme: auto # to switch between dark or light according to browser theme
+params:
+    homeInfoParams:
+        Title: Hi there wave
+        Content: Can be Info, links, about...
+
+    socialIcons: # optional
+        - name: "github"
+          url: "https://github.com/hntk03"
