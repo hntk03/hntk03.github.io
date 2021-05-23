@@ -1,9 +1,9 @@
 baseURL: https://hntk03.github.io/
 languageCode: ja
 title: hntk03's Portfolio
+canonifyurls: true
 theme: "PaperMod"
 publishDir: "docs"
-canonifyurls: true
 
 params:
     defaultTheme: light
