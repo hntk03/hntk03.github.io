@@ -1,4 +1,4 @@
-baseURL: http://hntk03.github.io/docs
+baseURL: http://hntk03.github.io/
 languageCode: en-us
 title: hntk03's Portfolio
 theme: "PaperMod"
@@ -15,5 +15,5 @@ params:
         Content: Can be Info, links, about...
 
     socialIcons: # optional
-        - name: "github"
+        - name: "Github"
           url: "https://github.com/hntk03"
