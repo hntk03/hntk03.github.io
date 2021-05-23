@@ -1,5 +1,5 @@
 baseURL: https://hntk03.github.io/
-languageCode: en-us
+languageCode: ja
 title: hntk03's Portfolio
 theme: "PaperMod"
 publishDir: "docs"
