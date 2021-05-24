@@ -10,8 +10,8 @@ params:
     # defaultTheme: dark
     #defaultTheme: auto # to switch between dark or light according to browser theme
     homeInfoParams:
-        Title: Hi there wave
-        Content: Can be Info, links, about...
+        Title: Works
+        Content: 作った物を紹介
 
     socialIcons: # optional
         - name: "Github"
