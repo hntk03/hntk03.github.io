@@ -16,3 +16,10 @@ params:
     socialIcons: # optional
         - name: "Github"
           url: "https://github.com/hntk03"
+
+menu:
+  main:
+    - identifier: profile
+      name: Profile
+      url: /posts/profile/
+      weight: 1
