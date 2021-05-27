@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Android on hntk03&#39;s Portfolio</title>
+    <link>https://hntk03.github.io/tags/android/</link>
+    <description>Recent content in Android on hntk03&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Thu, 27 May 2021 09:33:06 +0900</lastBuildDate><atom:link href="https://hntk03.github.io/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BMIcalc(Android app)</title>
+      <link>https://hntk03.github.io/posts/bmicalc/</link>
+      <pubDate>Thu, 27 May 2021 09:33:06 +0900</pubDate>
+      
+      <guid>https://hntk03.github.io/posts/bmicalc/</guid>
+      <description>概要 身長と体重を入力してBMIを計算するAndroidアプリを作成 作成期間 2021/05/14~2021/05/26 開発環境 kotlin Android Studio ダウンロード Google playで配信中 QRコードからアクセ</description>
+    </item>
+    
+  </channel>
+</rss>
