@@ -6,16 +6,23 @@
     <description>Recent content on hntk03&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 24 May 2021 14:33:19 +0900</lastBuildDate><atom:link href="https://hntk03.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 May 2021 09:33:06 +0900</lastBuildDate><atom:link href="https://hntk03.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BMIcalc(Android app)</title>
+      <link>https://hntk03.github.io/posts/bmicalc/</link>
+      <pubDate>Thu, 27 May 2021 09:33:06 +0900</pubDate>
+      
+      <guid>https://hntk03.github.io/posts/bmicalc/</guid>
+      <description>概要 身長と体重を入力してBMIを計算するAndroidアプリを作成 作成期間 2021/05/14~2021/05/26 開発環境 kotlin Android Studio ダウンロード Google playで配信中 QRコードからアクセ</description>
+    </item>
+    
     <item>
       <title>Profile</title>
       <link>https://hntk03.github.io/posts/profile/</link>
       <pubDate>Mon, 24 May 2021 14:33:19 +0900</pubDate>
       
       <guid>https://hntk03.github.io/posts/profile/</guid>
-      <description>Name hntk
-Birthday 1997/03/10
-Qualification    年 月 資格名     2015 4 普通自動車第一種運転免許 取得    </description>
+      <description>Name hntk Birthday 1997/03/10 Qualification 年 月 資格名 2015 4 普通自動車第一種運転免許 取得</description>
     </item>
     
     

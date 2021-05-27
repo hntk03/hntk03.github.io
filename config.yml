@@ -4,6 +4,7 @@ title: hntk03's Portfolio
 canonifyurls: true
 theme: "PaperMod"
 publishDir: "docs"
+HasCJKLanguage: true
 
 params:
     defaultTheme: light
