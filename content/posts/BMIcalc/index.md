@@ -1,7 +1,7 @@
 ---
 title: "BMIcalc(Android app)"
 date: 2021-05-27T09:33:06+09:00
-tags: ["kotlin", "app"]
+tags: ["kotlin", "Android"]
 draft: False
 ---
 
